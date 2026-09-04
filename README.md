@@ -41,4 +41,4 @@ Now that you have created a label, to be fully ARTS-compliant, it is mandatory t
 
 # ARTS Explainer Diagram
 
-![ARTS Explainer Diagram](/Assets/ARTS_Explainer_Diagram_090126.png "ARTS Explainer Diagram")
+![ARTS Explainer Diagram](/Assets/ARTS_Explainer_Diagram_Opaque_090426.png "ARTS Explainer Diagram")
