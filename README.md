@@ -37,7 +37,8 @@ Cogratulations, your label is complete! Save it and export copies in whichever f
 Now that you have created a label, to be fully ARTS-compliant, it is mandatory to create a System Information Sheet for your product.
 
 1. Download the SIS Affinity template from /Templates, ARTS_SIS_Template_082726.af.
-2. Edit the template's pre-defined and labeled fields to match your product and its ARTS Label.
+2. Replace the sample ARTS Label by importing your own: In Affinity, delete the existing label, then select File -> Place and browse to the .SVG file for your own label. Use the placement icon to place the label somewhere on the first page. In the new label's transform, set the X and Y positions to 0.25 in. Click the link button next to the Height and Width fields to lock the aspect ratio. Click at the end of the text in the Height field and type '/2' and hit the enter key. This will cut its size in half so that it fits perfectly in place on your System Information Sheet.
+3. Edit the template's pre-defined and labeled fields to match your product and its ARTS Label.
 
 # ARTS Explainer Diagram
 
