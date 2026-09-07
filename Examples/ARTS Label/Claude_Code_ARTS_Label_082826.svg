@@ -35,7 +35,7 @@
      inkscape:window-x="2149"
      inkscape:window-y="806"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer13"
+     inkscape:current-layer="layer1"
      showgrid="false" /><defs
      id="defs1" /><g
      inkscape:label="Card"
@@ -44,7 +44,7 @@
      style="display:inline"
      transform="translate(-69.210694,-103.54382)"
      sodipodi:insensitive="true"><rect
-       style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.777708;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:#ff5000;fill-opacity:1;stroke:#000000;stroke-width:0.777708;stroke-dasharray:none;stroke-opacity:1"
        id="rect1"
        width="58.488956"
        height="89.180626"
@@ -67,9 +67,9 @@
        inkscape:label="Rating Designator Text"><tspan
          x="30.436365"
          y="67.581818"
-         id="tspan7"><tspan
+         id="tspan5"><tspan
            style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
-           id="tspan6">38XX</tspan></tspan></text></g><g
+           id="tspan1">38XT</tspan></tspan></text></g><g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="CACS"
@@ -86,7 +86,7 @@
          id="tspan2"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.79375"
          x="133.78064"
-         y="196.19014">31</tspan></text></g><g
+         y="196.19014">26</tspan></text></g><g
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Connectivity Modifiers"
@@ -232,6 +232,7 @@
      inkscape:label="Sensing Modifiers"
      inkscape:highlight-color="#8c21f3"
      transform="translate(-69.210694,-103.54382)"
+     style="display:inline"
      sodipodi:insensitive="true"><g
        id="g86"
        inkscape:label="No Sensing Modifier"
@@ -711,13 +712,13 @@
        y="106.64608"
        ry="0.039261963"
        inkscape:label="Meter" /><rect
-       style="fill:#000000;stroke:none;stroke-width:0.793437"
+       style="fill:#000000;stroke:none;stroke-width:0.715382"
        id="rect4"
        width="6.8791666"
-       height="77.787498"
+       height="63.235416"
        x="134.07756"
-       y="106.71882"
-       ry="0.46172085"
+       y="121.2709"
+       ry="0.37534451"
        inkscape:label="Bar" /><text
        xml:space="preserve"
        style="font-size:3.52778px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.264583"
