@@ -35,7 +35,7 @@
      inkscape:window-x="2149"
      inkscape:window-y="806"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer10"
+     inkscape:current-layer="layer1"
      showgrid="false" /><defs
      id="defs1">
         
@@ -46,7 +46,7 @@
      style="display:inline"
      transform="translate(-69.210694,-103.54382)"
      sodipodi:insensitive="true"><rect
-       style="display:inline;fill:#80ff00;fill-opacity:1;stroke:#000000;stroke-width:0.777708;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:#bfff00;fill-opacity:1;stroke:#000000;stroke-width:0.777708;stroke-dasharray:none;stroke-opacity:1"
        id="rect1"
        width="58.488956"
        height="89.180626"
@@ -69,9 +69,9 @@
        inkscape:label="Rating Designator Text"><tspan
          x="30.436365"
          y="67.581818"
-         id="tspan4"><tspan
+         id="tspan7"><tspan
            style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
-           id="tspan3">30XN</tspan></tspan></text></g><g
+           id="tspan6">34XN</tspan></tspan></text></g><g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="CACS"
@@ -88,7 +88,7 @@
          id="tspan2"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.79375"
          x="133.78064"
-         y="196.19014">7</tspan></text></g><g
+         y="196.19014">11</tspan></text></g><g
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Connectivity Modifiers"
@@ -727,13 +727,13 @@
        y="106.64608"
        ry="0.039261963"
        inkscape:label="Meter" /><rect
-       style="fill:#000000;stroke:none;stroke-width:0.398065"
+       style="fill:#000000;stroke:none;stroke-width:0.485327"
        id="rect4"
        width="6.8791666"
-       height="19.579166"
+       height="29.104166"
        x="134.07756"
-       y="164.92715"
-       ry="0.11621544"
+       y="155.40215"
+       ry="0.17275268"
        inkscape:label="Bar" /><text
        xml:space="preserve"
        style="font-size:3.52778px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.264583"
