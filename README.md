@@ -2,18 +2,25 @@
 
 AI Rating Transparency System -- Official Repository
 
-ARTS is an accessible, human-centric, consumer-, business- and creator-friendly labeling standard that is broadly compliant with several regulatory frameworks regarding AI transparency labeling around the world:
+ARTS is a holistic, accessible, human-centric, consumer-, business- and creator-friendly labeling standard that is broadly compliant with several regulatory frameworks regarding AI transparency labeling around the world:
 
 * EU AI Act Article 50
 * California SB942
 * NY State Senate Bill 2025-S8420A (Synthetic Performer Law)
 * KAIBA (Korean AI Basic Act)
 
-It is free to use and open-source, released under a Creative Commons Zero Universal license.
+It is free to use and open-source, released under a **Creative Commons Zero (CC0) 1.0 Universal License**.
 
 Download the standard to get acquainted with using ARTS, then use the guide below to creating your first Arts Label and System Information Sheet.
 
 Example labels and System Information Sheets are available under the /Examples folder.
+
+## 📂 Important Repository Contents
+
+* `CC0 Logos/` - Official CC0 logos if you wish to use them on any additional media.
+* `/Examples/` - Examples of labels and System Information Statements.
+* `/Templates/` - Templates from which to start creating your own labels and System Information Sheets immediately. 
+* 'AI Rating Transparency System Standard.pdf' - The full, current standard specification.
 
 # Getting Started Guide
 
@@ -43,3 +50,15 @@ Now that you have created a label, to be fully ARTS-compliant, it is mandatory t
 # ARTS Explainer Diagram
 
 ![ARTS Explainer Diagram](/Assets/ARTS_Explainer_Diagram_Opaque_090426.png "ARTS Explainer Diagram")
+
+## Open Source & CC0 Licensing
+
+This project is entirely dedicated to the public domain. 
+
+The AI Rating Transparency System standard, all associated vector art graphics, icons, templates, and text layouts contained in this repository are released under a **Creative Commons Zero (CC0) 1.0 Universal License**. 
+
+You are free to copy, modify, distribute, fork, and perform the work, even for commercial purposes, completely without asking permission or providing mandatory attribution. 
+
+*Note: Per the core standard guidelines, any altered community forks or secondary industry implementations must explicitly label their respective custom branch pathways (e.g., `Version 1.0/your-branch-name`) on the face of the exported labels to maintain universal data transparency. Any fork or branch that fails to do so will not be considered ARTS-compliant.*
+
+📬 Developed and curated by **Droidknot LLC**. For formal questions or standard inquiries, contact `droidknotgames@gmail.com`.
