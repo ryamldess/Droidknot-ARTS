@@ -18,12 +18,13 @@ Example labels and System Information Sheets are available under the /Examples f
 ## 📂 Important Repository Contents
 
 * `CC0 Logos/` - Official CC0 logos if you wish to use them on any additional media.
-* `/Examples/` - Examples of labels and System Information Statements.
-* `/Templates/` - Templates from which to start creating your own labels and System Information Sheets immediately. 
-* 'AI Rating Transparency System Standard.pdf' - The full, current standard specification.
+* `Examples/` - Examples of labels and System Information Statements.
+* `Templates/` - Templates from which to start creating your own labels and System Information Sheets immediately. 
+* `AI Rating Transparency System Standard.pdf` - The full, current standard specification.
 
 # Getting Started Guide
 
+[!NOTE]
 This guide assumes you have read and understand the ARTS standard.
 
 ## Create a label
@@ -41,6 +42,7 @@ Cogratulations, your label is complete! Save it and export copies in whichever f
 
 ## Create a System Information Sheet.
 
+[!IMPORTANT]
 Now that you have created a label, to be fully ARTS-compliant, it is mandatory to create a System Information Sheet for your product.
 
 1. Download the SIS Affinity template from /Templates, ARTS_SIS_Template_082726.af.
@@ -59,6 +61,7 @@ The AI Rating Transparency System standard, all associated vector art graphics, 
 
 You are free to copy, modify, distribute, fork, and perform the work, even for commercial purposes, completely without asking permission or providing mandatory attribution. 
 
-*Note: Per the core standard guidelines, any altered community forks or secondary industry implementations must explicitly label their respective custom branch pathways (e.g., `Version 1.0/your-branch-name`) on the face of the exported labels to maintain universal data transparency. Any fork or branch that fails to do so will not be considered ARTS-compliant.*
+[!NOTE]
+*Per the core standard guidelines, any altered community forks or secondary industry implementations must explicitly label their respective custom branch pathways (e.g., `Version 1.0/your-branch-name`) on the face of the exported labels to maintain universal data transparency. Any fork or branch that fails to do so will not be considered ARTS-compliant.*
 
-📬 Developed and curated by **Droidknot LLC**. For formal questions or standard inquiries, contact `droidknotgames@gmail.com`.
+📬 Developed and curated by **Droidknot LLC**. For formal questions or standard inquiries, contact us [here](mailto:droidknotgames@gmail.com).
