@@ -1,3 +1,5 @@
+![ARTS Logo](/Assets/ARTS_Logo_1_091126.png "ARTS Logo")
+
 # Droidknot-ARTS
 
 AI Rating Transparency System -- Official Repository
