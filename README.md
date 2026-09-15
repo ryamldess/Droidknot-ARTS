@@ -1,4 +1,4 @@
-![ARTS Logo](/Assets/ARTS_Logo_1_091126.png "ARTS Logo")
+![ARTS Logo](/Assets/ARTS_Logo_1_solid_091526.png "ARTS Logo")
 
 # Droidknot-ARTS
 
