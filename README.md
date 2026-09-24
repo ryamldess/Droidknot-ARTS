@@ -13,15 +13,15 @@ ARTS is a holistic, accessible, human-centric, consumer-, business- and creator-
 
 It is free to use and open-source, released under a **Creative Commons Zero (CC0) 1.0 Universal License**.
 
-Download the standard to get acquainted with using ARTS, then use the guide below to creating your first Arts Label and System Information Sheet.
+Download the standard to get acquainted with using ARTS, then use the guide below to creating your first Arts Label and System Information Statement.
 
-Example labels and System Information Sheets are available under the /Examples folder.
+Example labels and System Information Statements are available under the /Examples folder.
 
 ## 📂 Important Repository Contents
 
 * `CC0 Logos/` - Official CC0 logos if you wish to use them on any additional media.
 * `Examples/` - Examples of labels and System Information Statements.
-* `Templates/` - Templates from which to start creating your own labels and System Information Sheets immediately. 
+* `Templates/` - Templates from which to start creating your own labels and System Information Statements immediately. 
 * `AI Rating Transparency System Standard.pdf` - The full, current standard specification.
 
 # Getting Started Guide
@@ -42,13 +42,13 @@ Example labels and System Information Sheets are available under the /Examples f
 
 Cogratulations, your label is complete! Save it and export copies in whichever format you require.
 
-## Create a System Information Sheet.
+## Create a System Information Statement.
 
 > [!IMPORTANT]
-> Now that you have created a label, to be fully ARTS-compliant, it is mandatory to create a System Information Sheet for your product.
+> Now that you have created a label, to be fully ARTS-compliant, it is mandatory to create a System Information Statement for your product.
 
 1. Download the SIS Affinity template from /Templates, ARTS_SIS_Template_082726.af.
-2. Replace the sample ARTS Label by importing your own: In Affinity, delete the existing label, then select File -> Place and browse to the .SVG file for your own label. Use the placement icon to place the label somewhere on the first page. In the new label's transform, set the X and Y positions to 0.25 in. Click the link button next to the Height and Width fields to lock the aspect ratio. Click at the end of the text in the Height field and type '/2' and hit the enter key. This will cut its size in half so that it fits perfectly in place on your System Information Sheet.
+2. Replace the sample ARTS Label by importing your own: In Affinity, delete the existing label, then select File -> Place and browse to the .SVG file for your own label. Use the placement icon to place the label somewhere on the first page. In the new label's transform, set the X and Y positions to 0.25 in. Click the link button next to the Height and Width fields to lock the aspect ratio. Click at the end of the text in the Height field and type '/2' and hit the enter key. This will cut its size in half so that it fits perfectly in place on your System Information Statement.
 3. Edit the template's pre-defined and labeled fields to match your product and its ARTS Label.
 
 # ARTS Explainer Diagram
